@@ -1,6 +1,7 @@
 <template>
   <div class="home">
   <h1>benvenuti</h1>
+    <h2>lkjkslksls</h2>
   </div>
 
   
